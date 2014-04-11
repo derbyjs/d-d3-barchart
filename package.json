@@ -1,7 +1,7 @@
 {
   "name": "d-d3-barchart",
   "description": "Example bar chart Derby component using d3",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.js",
   "keywords": [
     "derby",
