@@ -7,7 +7,7 @@ see also:
 [d-barchart](http://github.com/codeparty/d-d3-barchart)  
 
 # Usage
-[Example usage](http://github.com/codeparty/derby-examples/charts)
+[Example usage](http://github.com/codeparty/derby-examples/tree/master/charts)
 
 ## In your template
 ```
